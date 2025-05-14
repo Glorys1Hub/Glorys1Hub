@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glorys1Hub
+- 👋 Hi, I’m @GloryOlolade
 - 👀 I’m interested in: Frontend Development
 - 🌱 I’m currently learning Javascript,HTML and CSS
 - 💞️ I’m looking to collaborate on ...
